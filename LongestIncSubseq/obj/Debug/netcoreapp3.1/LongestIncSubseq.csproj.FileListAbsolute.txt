@@ -1,0 +1,8 @@
+C:\Users\eradi\source\repos\LongestIncSubseq\LongestIncSubseq\obj\Debug\netcoreapp3.1\LongestIncSubseq.csproj.AssemblyReference.cache
+C:\Users\eradi\source\repos\LongestIncSubseq\LongestIncSubseq\obj\Debug\netcoreapp3.1\LongestIncSubseq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eradi\source\repos\LongestIncSubseq\LongestIncSubseq\obj\Debug\netcoreapp3.1\LongestIncSubseq.AssemblyInfoInputs.cache
+C:\Users\eradi\source\repos\LongestIncSubseq\LongestIncSubseq\obj\Debug\netcoreapp3.1\LongestIncSubseq.AssemblyInfo.cs
+C:\Users\eradi\source\repos\LongestIncSubseq\LongestIncSubseq\obj\Debug\netcoreapp3.1\LongestIncSubseq.csproj.CoreCompileInputs.cache
+C:\Users\eradi\source\repos\LongestIncSubseq\LongestIncSubseq\obj\Debug\netcoreapp3.1\LongestIncSubseq.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eradi\source\repos\LongestIncSubseq\LongestIncSubseq\obj\Debug\netcoreapp3.1\LongestIncSubseq.RazorAssemblyInfo.cache
+C:\Users\eradi\source\repos\LongestIncSubseq\LongestIncSubseq\obj\Debug\netcoreapp3.1\LongestIncSubseq.RazorAssemblyInfo.cs
